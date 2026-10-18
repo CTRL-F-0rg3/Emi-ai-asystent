@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Чиби Эмми D_maf.moc3",
+		"Textures": [
+			"Чиби Эмми D_maf.4096/texture_00.png",
+			"Чиби Эмми D_maf.4096/texture_01.png"
+		],
+		"Physics": "Чиби Эмми D_maf.physics3.json",
+		"DisplayInfo": "Чиби Эмми D_maf.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

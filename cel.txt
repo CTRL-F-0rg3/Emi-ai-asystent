@@ -1,0 +1,4 @@
+CEL: Skończyć moduł logowania w projekcie Aurola do piątku
+KROKI: napisać testy; poprawić walidację; zrobić commit
+ROZPRASZACZE: YouTube, Reddit, Facebook, Netflix
+NOTATKI: najlepiej pracuję rano; przerwa co 50 minut

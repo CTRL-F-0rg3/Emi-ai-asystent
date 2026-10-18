@@ -1,0 +1,1154 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param95",
+			"GroupId": "ParamGroup9",
+			"Name": "Пустые глаза"
+		},
+		{
+			"Id": "Param102",
+			"GroupId": "ParamGroup9",
+			"Name": "Сердечки"
+		},
+		{
+			"Id": "Param101",
+			"GroupId": "ParamGroup9",
+			"Name": "Большие блики"
+		},
+		{
+			"Id": "ParamRazdelitel22",
+			"GroupId": "ParamGroup9",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param92",
+			"GroupId": "ParamGroup9",
+			"Name": "Кофта"
+		},
+		{
+			"Id": "Param48",
+			"GroupId": "ParamGroup9",
+			"Name": "Хвостики"
+		},
+		{
+			"Id": "Param70",
+			"GroupId": "ParamGroup9",
+			"Name": "Локоны On/Off"
+		},
+		{
+			"Id": "Param56",
+			"GroupId": "ParamGroup9",
+			"Name": "Короткие волосы"
+		},
+		{
+			"Id": "Param69",
+			"GroupId": "ParamGroup9",
+			"Name": "Косички"
+		},
+		{
+			"Id": "Param82",
+			"GroupId": "ParamGroup9",
+			"Name": "Уши кролика"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup",
+			"Name": "============"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamRazdelitel14",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка L - Физ. 1"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка L - Физ. 2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка L - Физ. 3"
+		},
+		{
+			"Id": "ParamRazdelitel15",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "Ресницы L - Физ. 2"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "Ресницы L - Физ. 1"
+		},
+		{
+			"Id": "ParamRazdelitel16",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "Реснички L - Физ. 1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "Реснички L - Физ. 2"
+		},
+		{
+			"Id": "ParamRazdelitel17",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "Блики L - X"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup",
+			"Name": "Блики L - Y"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup",
+			"Name": "============"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamRazdelitel18",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param111",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка R - Физ. 1"
+		},
+		{
+			"Id": "Param112",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка R - Физ. 2"
+		},
+		{
+			"Id": "Param113",
+			"GroupId": "ParamGroup",
+			"Name": "Радужка R - Физ. 3"
+		},
+		{
+			"Id": "ParamRazdelitel19",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param115",
+			"GroupId": "ParamGroup",
+			"Name": "Ресницы R - Физ. 2"
+		},
+		{
+			"Id": "Param116",
+			"GroupId": "ParamGroup",
+			"Name": "Ресницы R - Физ. 1"
+		},
+		{
+			"Id": "ParamRazdelitel20",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param118",
+			"GroupId": "ParamGroup",
+			"Name": "Реснички R - Физ. 1"
+		},
+		{
+			"Id": "Param119",
+			"GroupId": "ParamGroup",
+			"Name": "Реснички R - Физ. 2"
+		},
+		{
+			"Id": "ParamRazdelitel21",
+			"GroupId": "ParamGroup",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param121",
+			"GroupId": "ParamGroup",
+			"Name": "Блики R - X"
+		},
+		{
+			"Id": "Param122",
+			"GroupId": "ParamGroup",
+			"Name": "Блики R - Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup2",
+			"Name": "============"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup2",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup3",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup3",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "MouthJawOpen",
+			"GroupId": "ParamGroup3",
+			"Name": "Jaw"
+		},
+		{
+			"Id": "MouthFunnel",
+			"GroupId": "ParamGroup3",
+			"Name": "Funnel"
+		},
+		{
+			"Id": "MouthPressLipOpen",
+			"GroupId": "ParamGroup3",
+			"Name": "PressLipOpen"
+		},
+		{
+			"Id": "ParamMouthX",
+			"GroupId": "ParamGroup3",
+			"Name": "Mouth X"
+		},
+		{
+			"Id": "MouthShrug",
+			"GroupId": "ParamGroup3",
+			"Name": "Shrug"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup3",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup4",
+			"Name": "● Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup4",
+			"Name": "● Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup4",
+			"Name": "● Angle Z"
+		},
+		{
+			"Id": "ParamAngleXphs",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleYphs",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZphs",
+			"GroupId": "ParamGroup4",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup5",
+			"Name": "● Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup5",
+			"Name": "● Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup5",
+			"Name": "● Body Z"
+		},
+		{
+			"Id": "ParamPositionX",
+			"GroupId": "ParamGroup5",
+			"Name": "● Position X"
+		},
+		{
+			"Id": "Param84",
+			"GroupId": "ParamGroup5",
+			"Name": "============"
+		},
+		{
+			"Id": "ParamBodyAngleX5",
+			"GroupId": "ParamGroup5",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY2",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ2",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBodyAngleX6",
+			"GroupId": "ParamGroup5",
+			"Name": "Бедра Z"
+		},
+		{
+			"Id": "ParamBodyAngleX3",
+			"GroupId": "ParamGroup5",
+			"Name": "Нога L"
+		},
+		{
+			"Id": "ParamBodyAngleX4",
+			"GroupId": "ParamGroup5",
+			"Name": "Нога R"
+		},
+		{
+			"Id": "Param83",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Pos Y"
+		},
+		{
+			"Id": "Param94",
+			"GroupId": "ParamGroup5",
+			"Name": "Body Pos X"
+		},
+		{
+			"Id": "Param85",
+			"GroupId": "ParamGroup5",
+			"Name": "============"
+		},
+		{
+			"Id": "Param86",
+			"GroupId": "ParamGroup5",
+			"Name": "Плечо R"
+		},
+		{
+			"Id": "Param87",
+			"GroupId": "ParamGroup5",
+			"Name": "Локоть R"
+		},
+		{
+			"Id": "Param88",
+			"GroupId": "ParamGroup5",
+			"Name": "Кисть R"
+		},
+		{
+			"Id": "ParamRazdelitel13",
+			"GroupId": "ParamGroup5",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param89",
+			"GroupId": "ParamGroup5",
+			"Name": "Плечо L"
+		},
+		{
+			"Id": "Param90",
+			"GroupId": "ParamGroup5",
+			"Name": "Локоть L"
+		},
+		{
+			"Id": "Param91",
+			"GroupId": "ParamGroup5",
+			"Name": "Кисть L"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup6",
+			"Name": "Ахоге X1"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup6",
+			"Name": "Ахоге X2"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup6",
+			"Name": "Ахоге X3"
+		},
+		{
+			"Id": "ParamRazdelitel5",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup6",
+			"Name": "Челка X1"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup6",
+			"Name": "Челка X2"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup6",
+			"Name": "Челка X3"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup6",
+			"Name": "Челка Y1"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup6",
+			"Name": "Челка Y2"
+		},
+		{
+			"Id": "ParamRazdelitel6",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон R X1"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон R X2"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон R X3"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон R Y1"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон R Y2"
+		},
+		{
+			"Id": "ParamRazdelitel7",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон L X1"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон L X2"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон L X3"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон L Y1"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup6",
+			"Name": "Локон L Y2"
+		},
+		{
+			"Id": "ParamRazdelitel8",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик R Z"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик R X1"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик R X2"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик R X3"
+		},
+		{
+			"Id": "ParamRazdelitel9",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик L Z"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик L X1"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик L X2"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup6",
+			"Name": "Хвостик L X3"
+		},
+		{
+			"Id": "ParamRazdelitel10",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param50",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие X1"
+		},
+		{
+			"Id": "Param51",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие X2"
+		},
+		{
+			"Id": "Param52",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие X3"
+		},
+		{
+			"Id": "Param53",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие Y1"
+		},
+		{
+			"Id": "Param54",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие Y2"
+		},
+		{
+			"Id": "Param55",
+			"GroupId": "ParamGroup6",
+			"Name": "Волосы короткие Y3"
+		},
+		{
+			"Id": "ParamRazdelitel11",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param58",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса R X1"
+		},
+		{
+			"Id": "Param59",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса R X2"
+		},
+		{
+			"Id": "Param60",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса R X3"
+		},
+		{
+			"Id": "Param61",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса R X4"
+		},
+		{
+			"Id": "Param62",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса R X5"
+		},
+		{
+			"Id": "ParamRazdelitel12",
+			"GroupId": "ParamGroup6",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param64",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса L X1"
+		},
+		{
+			"Id": "Param65",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса L X2"
+		},
+		{
+			"Id": "Param66",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса L X3"
+		},
+		{
+			"Id": "Param67",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса L X4"
+		},
+		{
+			"Id": "Param68",
+			"GroupId": "ParamGroup6",
+			"Name": "Коса L X5"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup7",
+			"Name": "Бантик L X1"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup7",
+			"Name": "Бантик L X2"
+		},
+		{
+			"Id": "Param49",
+			"GroupId": "ParamGroup7",
+			"Name": "Бантик R X1"
+		},
+		{
+			"Id": "Param57",
+			"GroupId": "ParamGroup7",
+			"Name": "Бантик R X2"
+		},
+		{
+			"Id": "ParamRazdelitel27",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup7",
+			"Name": "Рукав L Кофта X1"
+		},
+		{
+			"Id": "Param93",
+			"GroupId": "ParamGroup7",
+			"Name": "Рукав L Кофта X2"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup7",
+			"Name": "Рукав R Кофта X1"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup7",
+			"Name": "Рукав R Кофта X2"
+		},
+		{
+			"Id": "ParamRazdelitel26",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup7",
+			"Name": "Вся кофта Y"
+		},
+		{
+			"Id": "ParamRazdelitel25",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param106",
+			"GroupId": "ParamGroup7",
+			"Name": "Кофта X1"
+		},
+		{
+			"Id": "Param107",
+			"GroupId": "ParamGroup7",
+			"Name": "Кофта X2"
+		},
+		{
+			"Id": "Param108",
+			"GroupId": "ParamGroup7",
+			"Name": "Кофта Y1"
+		},
+		{
+			"Id": "Param109",
+			"GroupId": "ParamGroup7",
+			"Name": "Кофта Y2"
+		},
+		{
+			"Id": "ParamRazdelitel24",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param105",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья X1"
+		},
+		{
+			"Id": "Param128",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья X2"
+		},
+		{
+			"Id": "Param129",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья X3"
+		},
+		{
+			"Id": "ParamRazdelitel2",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param133",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья Y1"
+		},
+		{
+			"Id": "Param134",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья Y2"
+		},
+		{
+			"Id": "Param135",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья Y3"
+		},
+		{
+			"Id": "ParamRazdelitel3",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param130",
+			"GroupId": "ParamGroup7",
+			"Name": "Юбка платья - волна1"
+		},
+		{
+			"Id": "ParamRazdelitel4",
+			"GroupId": "ParamGroup7",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup7",
+			"Name": "Резинка R X"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup7",
+			"Name": "Резинка R Y"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup7",
+			"Name": "Резинка 2 R X"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup7",
+			"Name": "Резинка 2 R Y"
+		},
+		{
+			"Id": "Param96",
+			"GroupId": "ParamGroup10",
+			"Name": "Пустые глаза физ"
+		},
+		{
+			"Id": "Param103",
+			"GroupId": "ParamGroup10",
+			"Name": "Биение сердца X1"
+		},
+		{
+			"Id": "Param104",
+			"GroupId": "ParamGroup10",
+			"Name": "Биение сердца X1"
+		},
+		{
+			"Id": "Param97",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик X1 L"
+		},
+		{
+			"Id": "Param98",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик X2 L"
+		},
+		{
+			"Id": "Param100",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик Y1 L"
+		},
+		{
+			"Id": "Param99",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик Y2 L"
+		},
+		{
+			"Id": "ParamRazdelitel23",
+			"GroupId": "ParamGroup10",
+			"Name": "-------"
+		},
+		{
+			"Id": "Param123",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик X1 R"
+		},
+		{
+			"Id": "Param124",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик X2 R"
+		},
+		{
+			"Id": "Param125",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик Y1 R"
+		},
+		{
+			"Id": "Param126",
+			"GroupId": "ParamGroup10",
+			"Name": "Блик Y2 R"
+		},
+		{
+			"Id": "Param76",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо L - Rotat"
+		},
+		{
+			"Id": "Param80",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо L - Flip"
+		},
+		{
+			"Id": "Param77",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо L - X1"
+		},
+		{
+			"Id": "Param78",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо L - X2"
+		},
+		{
+			"Id": "Param79",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо L - X3"
+		},
+		{
+			"Id": "Param81",
+			"GroupId": "ParamGroup8",
+			"Name": "============"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо R - Rotat"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо R - Flip"
+		},
+		{
+			"Id": "Param71",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо R - X1"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо R - X2"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "ParamGroup8",
+			"Name": "Ухо R - X3"
+		},
+		{
+			"Id": "ParamRazdelitel1",
+			"GroupId": "ParamGroup11",
+			"Name": "-------"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "Эмоции"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "Глаза"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "Брови"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "Рот"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "Голова"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "Тело"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "Физика волос"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "Физика одежды"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "Физика эмоций"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "Уши"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "Вспомогательное"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "Ахоге"
+		},
+		{
+			"Id": "Part2",
+			"Name": "заколки"
+		},
+		{
+			"Id": "Part3",
+			"Name": "Челка"
+		},
+		{
+			"Id": "Part4",
+			"Name": "Брови"
+		},
+		{
+			"Id": "Part5",
+			"Name": "Нос"
+		},
+		{
+			"Id": "Part6",
+			"Name": "Глаза"
+		},
+		{
+			"Id": "Part9",
+			"Name": "Голова"
+		},
+		{
+			"Id": "Part11",
+			"Name": "Уши"
+		},
+		{
+			"Id": "Part12",
+			"Name": "Кофта"
+		},
+		{
+			"Id": "Part13",
+			"Name": "Платье"
+		},
+		{
+			"Id": "Part15",
+			"Name": "Тело"
+		},
+		{
+			"Id": "Part28",
+			"Name": "Зад части"
+		},
+		{
+			"Id": "Part16",
+			"Name": "Задние волосы"
+		},
+		{
+			"Id": "L2",
+			"Name": "R"
+		},
+		{
+			"Id": "L",
+			"Name": "L"
+		},
+		{
+			"Id": "Part10",
+			"Name": "Рот"
+		},
+		{
+			"Id": "Part27",
+			"Name": "L"
+		},
+		{
+			"Id": "Part26",
+			"Name": "R"
+		},
+		{
+			"Id": "Part17",
+			"Name": "Косы"
+		},
+		{
+			"Id": "Part18",
+			"Name": "короткие"
+		},
+		{
+			"Id": "Part19",
+			"Name": "Хвостики"
+		},
+		{
+			"Id": "Part14",
+			"Name": "эмоции"
+		},
+		{
+			"Id": "Part20",
+			"Name": "Радужка"
+		},
+		{
+			"Id": "Part7",
+			"Name": "эмоции"
+		},
+		{
+			"Id": "Part8",
+			"Name": "Радужка"
+		},
+		{
+			"Id": "Part25",
+			"Name": "L"
+		},
+		{
+			"Id": "Part24",
+			"Name": "R"
+		},
+		{
+			"Id": "Part23",
+			"Name": "L"
+		},
+		{
+			"Id": "Part22",
+			"Name": "R"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"Param31",
+			"Param32"
+		]
+	]
+}
